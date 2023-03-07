@@ -1,5 +1,6 @@
 # Text-Corpus vom Corona-Liveticker von NDR.de
 Textcorpus der Corona-Liveticker-Meldungen von NDR.de 2020-2023
+
 Datei: https://github.com/NorddeutscherRundfunk/NDRData-Corona-Liveticker/blob/main/ndr_corona_liveticker.csv
 
 Drei Jahre lang, vom 28.2.2020 bis zum 28.2.2023, informierte die Nachrichtenredaktion des NDR auf einem täglichen Liveblog über die Lage in Norddeutschland. 
