@@ -14,7 +14,7 @@ Der Datensatz enthält 32.405 Meldungen mit insgesamt 19.335.904 Zeichen.
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 'datetime' | Datum und Uhrzeit der Meldung als datetime-Objekt. Wichtig: Zeitzonen werden nicht beachtet, der Zeitstempel stellt die jeweilige Ortszeit in Hamburg dar. |
 | 'headline' | Überschrift der Meldung                                                                                                                                    |
-| 'text'     | Text der Meldung. Sollten an der Stelle Videos oder Audios eingebunden gewesen sein, kann es sein, dass Felder leer bleiben.                               |
+| 'text'     | Text der Meldung. Sollten an der Stelle Videos oder Audios eingebunden gewesen sein, kann es sein, dass Felder leer bleiben. In seltenen Fällen wird der Text der vorangegangenen Meldung wiederholt.                              |
 | 'length'   | Länge der Meldungen (Zeichen)                                                                                                                              |
 | 'url_ndr'  | URL zur Originalseite-Meldungsseite auf NDR.de                                                                                                             |
 | 'day'      | Tag                                                                                                                                                        |
