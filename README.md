@@ -5,6 +5,9 @@ Drei Jahre lang, vom 28.2.2020 bis zum 28.2.2023, informierte die Nachrichtenred
 
 Das Team von NDR Data hat die Meldungen nun in einem Dokument gesammelt. Vor allem Wissenschaftlerinnen und Wissenschaftler sollen dadurch die Möglichkeit bekommen, einen Blick auf die Corona-Zeit und die Berichterstattung zu werfen.
 
+Der Datensatz enthält 32.405 Meldungen mit insgesamt 19.335.904 Zeichen.
+
+
 | Feld       | Information                                                                                                                                                |
 |------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 'datetime' | Datum und Uhrzeit der Meldung als datetime-Objekt. Wichtig: Zeitzonen werden nicht beachtet, der Zeitstempel stellt die jeweilige Ortszeit in Hamburg dar. |
@@ -17,5 +20,11 @@ Das Team von NDR Data hat die Meldungen nun in einem Dokument gesammelt. Vor all
 | 'year'     | Jahr                                                                                                                                                       |
 | 'date'     | Datum ohne Uhrzeit                                                                                                                                         |
 | 'hour'     | Uhrzeit                                                                                                                                                    |
+
+Auf Grundlage des Datensatzes sind quantitative Auswertungen möglich...
+![](/images/meldungen_nach_monat.png)
+![](/images/meldungen_nach_stunde.png)
+
+...aber auch qualitative, wie zum Beispiel eine Text-Analyse.
 
 Bei Rückfragen können Sie sich gern bei data@ndr.de melden.
