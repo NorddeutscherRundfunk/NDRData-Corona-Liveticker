@@ -29,4 +29,13 @@ Auf Grundlage des Datensatzes sind quantitative Auswertungen möglich...
 
 ...aber auch qualitative, wie zum Beispiel eine Text-Analyse.
 
-Bei Rückfragen können Sie sich gern bei data@ndr.de melden.
+## Lizenz
+
+Alle Daten können frei und kostenlos unter der [Open Data Datenlizenz Deutschland – Namensnennung – Version 2.0](https://www.govdata.de/dl-de/by-2-0) genutzt werden. Die Quellenvermerke sind bei den jeweilige Datensäten genannt (s.u.). Beachten Sie bitte auch den [Haftungsausschluss unten](#Haftungsausschluss).
+
+Fragen und Anregungen nehmen wir gerne unter [data@ndr.de](mailto:data@ndr.de "Link: Link zur E-Mail-Adresse data@ndr.de") entgegen.
+
+## Haftungsausschluss
+
+*Haftungsausschluss: Die Inhalte dieser Seite dienen ausschließlich der allgemeinen Information der Öffentlichkeit. Der NDR übernimmt keine Verantwortung für die Richtigkeit und Vollständigkeit der Daten und Informationen, ob auf dieser Seite angegeben oder verlinkt, für Abweichungen von Originaldaten, Übertragungsfehler oder Veränderung der Informationen durch Dritte.*
+
